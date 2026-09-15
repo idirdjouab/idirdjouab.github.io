@@ -7,8 +7,6 @@ author_profile: true
 classes: wide
 ---
 
-## Hi 👋
-
 👨‍🔬 **I am an engineering student at ENSIMAG** and an Apprentice Engineer at Hewlett Packard (HP). I am interested in efficient AI, with a particular focus on turning research ideas into practical applications.
  
 🎓 I worked on the [6G-GOALS](https://sites.google.com/view/6ggoals/home) research project across several topics, including dataset creation and data preparation, deep learning model training, inference optimization, and the development of a digital twin for modeling inference performance and energy consumption, combined with reinforcement learning for intelligent resource and model selection.
